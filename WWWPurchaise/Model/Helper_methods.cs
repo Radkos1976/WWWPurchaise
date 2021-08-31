@@ -19,8 +19,8 @@ using System.Xml.Linq;
 //          <ConnectionIdleLifetime >30</ConnectionIdleLifetime>
 //          <ApplicationName>APPLICATION NAME</ApplicationName>
 //          <Username>user</Username>
-//          <Password>tyghbn</Password>
-//          <Database>zakupy</Database>
+//          <Password>Password</Password>
+//          <Database>DBname</Database>
 //    </POSTEGRESQL>
 //    <MAIL>
 //          <Port>587</Port>
